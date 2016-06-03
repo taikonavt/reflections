@@ -6,3 +6,8 @@ It was created the .git file
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Working directory is just a directory where files put in. This does not mean they will be checked.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can put only one changed file in staging area.
