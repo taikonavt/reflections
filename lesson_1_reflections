@@ -1,0 +1,17 @@
+How did viesing a diff between two versions of a file help you see the bug that was introduced?
+
+It shows line with sign "-" in old file which was changed and line with sign "+" in new file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can put cammand git log and look all commits that was made and their discription. Than you can put diff command and see what exectly was changed.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+You can do every change you want and if it will not work you can back without any problem.
+
+
+How do you want to use Git?
+
+I want to keep track of my developing programms.
