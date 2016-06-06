@@ -26,3 +26,8 @@ It shows you by graph all brunches of your project.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging is united commit of two branches. Because two branches merge in one.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually? 
+
+Sometimes it could happend that the same part of code was changed in both branches, so git can't dicide which is more preferable. For this reason user should so it himself.
