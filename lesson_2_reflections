@@ -21,3 +21,8 @@ You can track changes you did. You can look them every time you want.
 How do the diagrams help you visualize the branch structure?
 
 It shows you by graph all brunches of your project.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging is united commit of two branches. Because two branches merge in one.
