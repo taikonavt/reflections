@@ -11,3 +11,13 @@ Working directory is just a directory where files put in. This does not mean the
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can put only one changed file in staging area.
+
+
+What are some situation when branches would be helpful in keeping your history organized? How would branches help?
+
+You can track changes you did. You can look them every time you want.
+
+
+How do the diagrams help you visualize the branch structure?
+
+It shows you by graph all brunches of your project.
