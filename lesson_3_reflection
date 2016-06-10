@@ -6,3 +6,8 @@ If you have several working machine it is would be easy for you to keep you file
 Why might you want to always pull changes manually rather having Git automatically stay up-to-date with your remote repository?
 
 I could want not to show code to somebody else.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you appeared in forest accidantly you would be able to continue your work.
