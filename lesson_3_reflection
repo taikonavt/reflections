@@ -11,3 +11,8 @@ I could want not to show code to somebody else.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If you appeared in forest accidantly you would be able to continue your work.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without git you can collaborate with telefon, email, etc. It would be faster to make a change, but harder to trak changes.
